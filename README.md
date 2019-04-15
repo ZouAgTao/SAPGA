@@ -42,3 +42,23 @@
 
 ## 结果统计
 
+![单亲遗传算法迭代图(不计长度)](https://github.com/ZouAgTao/SAPGA/blob/master/img_data/1/1.png?raw=true)
+
+
+
+![单亲遗传算法迭代图(考虑长度)](https://github.com/ZouAgTao/SAPGA/blob/master/img_data/1/2.png?raw=true)
+
+![单亲遗传算法收敛速率变化(不计长度)](https://github.com/ZouAgTao/SAPGA/blob/master/img_data/2/1.png?raw=true)
+
+![单亲遗传算法收敛速率变化(考虑长度)](https://github.com/ZouAgTao/SAPGA/blob/master/img_data/2/2.png?raw=true)
+
+![单亲遗传算法迭代图(3辆穿梭车)](https://github.com/ZouAgTao/SAPGA/blob/master/img_data/3/1.png?raw=true)
+
+![单亲遗传算法迭代图(6辆穿梭车)](https://github.com/ZouAgTao/SAPGA/blob/master/img_data/3/2.png?raw=true)
+
+![单亲遗传算法迭代图(9辆穿梭车)](https://github.com/ZouAgTao/SAPGA/blob/master/img_data/3/3.png?raw=true)
+
+![系统运行时间变化情况](https://github.com/ZouAgTao/SAPGA/blob/master/img_data/4/1.png?raw=true)
+
+![系统等待时间变化情况](https://github.com/ZouAgTao/SAPGA/blob/master/img_data/4/2.png?raw=true)
+
